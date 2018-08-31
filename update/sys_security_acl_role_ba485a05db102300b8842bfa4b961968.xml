@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 18:31:09</sys_created_on>
+        <sys_id>ba485a05db102300b8842bfa4b961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_39630_instance_i_instance_information.x_39630_instance_i.instance_information_user</sys_name>
+        <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Information Manager">91103830db102300b8842bfa4b9619ea</sys_scope>
+        <sys_security_acl display_value="x_39630_instance_i_instance_information">72485a05db102300b8842bfa4b961966</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ba485a05db102300b8842bfa4b961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 18:31:09</sys_updated_on>
+        <sys_user_role display_value="x_39630_instance_i.instance_information_user" name="x_39630_instance_i.instance_information_user">6a485a41db102300b8842bfa4b96199d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

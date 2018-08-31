@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Instance Information">2e485a05db102300b8842bfa4b961949</application>
+        <filter/>
+        <name>Instance Informations</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_39630_instance_i.instance_information_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 18:31:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa485a05db102300b8842bfa4b96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Instance Informations</sys_name>
+        <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Information Manager">91103830db102300b8842bfa4b9619ea</sys_scope>
+        <sys_update_name>sys_ui_module_aa485a05db102300b8842bfa4b96194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 18:31:08</sys_updated_on>
+        <table>x_39630_instance_i_instance_information</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
