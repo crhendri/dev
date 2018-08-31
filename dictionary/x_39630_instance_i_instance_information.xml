@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Instance Information" max_length="40" name="x_39630_instance_i_instance_information" type="collection"/>
+    <element label="Instance Information" max_length="40" name="x_39630_instance_i_instance_information" type="collection">
+        <element label="Instance name" mandatory="true" max_length="40" name="u_instance_name" type="string"/>
+    </element>
 </database>
