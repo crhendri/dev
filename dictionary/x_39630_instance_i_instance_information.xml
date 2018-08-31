@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Instance Information" max_length="40" name="x_39630_instance_i_instance_information" type="collection"/>
+    <element label="Instance Information" max_length="40" name="x_39630_instance_i_instance_information" type="collection">
+        <element choice="1" label="Authentication" mandatory="true" max_length="40" name="u_authentication" type="choice">
+            <choice>
+                <element label="SSO" sequence="1" value="SSO"/>
+                <element label="login.do" sequence="2" value="login.do"/>
+            </choice>
+        </element>
+        <element label="Instance name" mandatory="true" max_length="40" name="u_instance_name" type="string"/>
+        <element label="Instance URL" mandatory="true" max_length="1024" name="u_instance_url" type="url"/>
+    </element>
 </database>
