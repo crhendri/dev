@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-31 18:35:36</sys_created_on>
-        <sys_id>7e299285db102300b8842bfa4b9619bb</sys_id>
+        <sys_id>a17c1e41db502300b8842bfa4b96194a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Instance name</sys_name>
         <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
         <sys_policy/>
         <sys_scope display_value="Instance Information Manager">91103830db102300b8842bfa4b9619ea</sys_scope>
         <sys_update_name>sys_dictionary_x_39630_instance_i_instance_information_u_instance_name</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-31 18:35:36</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-31 18:49:22</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
