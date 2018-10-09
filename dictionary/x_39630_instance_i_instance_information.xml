@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Instance Information" max_length="40" name="x_39630_instance_i_instance_information" type="collection"/>
+    <element label="Instance Information" max_length="40" name="x_39630_instance_i_instance_information" type="collection">
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Cloned from" max_length="32" name="u_cloned_from" reference="x_39630_instance_i_instance_information" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
+        <element label="Details" max_length="8000" name="u_details" type="html"/>
+        <element label="Hotfix" max_length="40" name="u_hotfix" type="integer"/>
+        <element label="Is a hotfix?" max_length="40" name="u_is_a_hotfix" type="boolean"/>
+        <element label="Last cloned by" max_length="100" name="u_last_cloned_by" type="string"/>
+        <element label="Last clone date" max_length="40" name="u_last_clone_date" type="glide_date"/>
+        <element choice="1" label="Login" max_length="40" name="u_login" type="choice">
+            <choice>
+                <element label="SSO" sequence="1" value="SSO"/>
+                <element label="Login.do" sequence="2" value="Login.do"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="60" name="u_name" type="string"/>
+        <element label="Order" max_length="40" name="u_order" type="integer"/>
+        <element label="Patch" max_length="60" name="u_patch" type="integer"/>
+        <element label="Version" max_length="100" name="u_version" type="string"/>
+        <index name="index">
+            <element name="u_cloned_from"/>
+        </index>
+    </element>
 </database>

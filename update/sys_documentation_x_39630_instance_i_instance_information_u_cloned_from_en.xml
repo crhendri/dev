@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_cloned_from" label="Cloned from" language="en" table="x_39630_instance_i_instance_information">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_cloned_from</element>
+            <help/>
+            <hint/>
+            <label>Cloned from</label>
+            <language>en</language>
+            <name>x_39630_instance_i_instance_information</name>
+            <plural>Cloned froms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 23:48:55</sys_created_on>
+            <sys_id>407dcf11db052300e2df17803996195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cloned from</sys_name>
+            <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance Information Manager">91103830db102300b8842bfa4b9619ea</sys_scope>
+            <sys_update_name>sys_documentation_x_39630_instance_i_instance_information_u_cloned_from_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 23:48:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
