@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="u_login" table="x_39630_instance_i_instance_information" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -45,7 +44,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-10-08 23:53:16</sys_created_on>
-            <sys_id>c2f1e75ddb052300e2df178039961952</sys_id>
+            <sys_id>cae0812cdb21230030d653184b9619b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_login</sys_name>
             <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
