@@ -3,7 +3,8 @@
         <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="test" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="u_active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Cloned from" max_length="32" name="u_cloned_from" reference="x_39630_instance_i_instance_information" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Details" max_length="8000" name="u_details" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="8000" name="u_details" type="html"/>
+        <element label="Email state" max_length="200" name="u_email_state" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Hotfix" max_length="40" name="u_hotfix" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Is a hotfix?" max_length="40" name="u_is_a_hotfix" type="boolean"/>
         <element label="Last cloned by" max_length="100" name="u_last_cloned_by" type="string"/>
@@ -17,6 +18,8 @@
         <element label="Name" max_length="60" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Order" max_length="40" name="u_order" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Patch" max_length="60" name="u_patch" type="integer"/>
+        <element label="Plugins" max_length="8000" name="u_plugins" type="html"/>
+        <element label="URL" max_length="1024" name="u_url" type="url"/>
         <element label="Version" max_length="100" name="u_version" type="string"/>
         <index name="index">
             <element name="u_cloned_from"/>

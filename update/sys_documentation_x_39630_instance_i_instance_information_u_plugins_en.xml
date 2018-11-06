@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_details" label="Status" language="en" table="x_39630_instance_i_instance_information">
+    <sys_documentation element="u_plugins" label="Plugins" language="en" table="x_39630_instance_i_instance_information">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_details</element>
+            <element>u_plugins</element>
             <help/>
             <hint/>
-            <label>Status</label>
+            <label>Plugins</label>
             <language>en</language>
             <name>x_39630_instance_i_instance_information</name>
-            <plural>Status</plural>
+            <plural>Plugins</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 23:44:03</sys_created_on>
-            <sys_id>345c8b9ddbc12300e2df178039961932</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Status</sys_name>
+            <sys_created_on>2018-11-06 14:40:52</sys_created_on>
+            <sys_id>72162a6adb21230030d653184b96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Plugins</sys_name>
             <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
             <sys_policy/>
             <sys_scope display_value="Instance Information Manager">91103830db102300b8842bfa4b9619ea</sys_scope>
-            <sys_update_name>sys_documentation_x_39630_instance_i_instance_information_u_details_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_39630_instance_i_instance_information_u_plugins_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 14:40:19</sys_updated_on>
+            <sys_updated_on>2018-11-06 14:40:52</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

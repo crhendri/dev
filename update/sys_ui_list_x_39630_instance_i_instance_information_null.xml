@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_39630_instance_i_instance_information" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_name</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>abc2e6a6db21230030d653184b96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>test</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>a3c2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_active</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>27c2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cloned_from</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>a7c2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_details</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>2bc2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_hotfix</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>abc2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_is_a_hotfix</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>2fc2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_last_clone_date</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>afc2e6a6db21230030d653184b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_last_cloned_by</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>23c2e6a6db21230030d653184b961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_login</element>
+            <list_id display_value="x_39630_instance_i_instance_information" element="NULL" name="x_39630_instance_i_instance_information" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3c2e6a6db21230030d653184b96191d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_id>a3c2e6a6db21230030d653184b961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_39630_instance_i_instance_information</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 14:26:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3c2e6a6db21230030d653184b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_39630_instance_i_instance_information</sys_name>
+            <sys_package display_value="Instance Information Manager" source="x_39630_instance_i">91103830db102300b8842bfa4b9619ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance Information Manager">91103830db102300b8842bfa4b9619ea</sys_scope>
+            <sys_update_name>sys_ui_list_x_39630_instance_i_instance_information_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:26:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
